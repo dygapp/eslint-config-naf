@@ -1,9 +1,10 @@
 {
   "name": "eslint-config-naf",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "naf eslint config ",
   "main": "index.js",
   "scripts": {
+    "lint": "eslint .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -18,6 +19,9 @@
   "homepage": "https://github.com/dygapp/eslint-config-naf#readme",
   "dependencies": {
     "eslint-config-egg": "^6.0.0"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/"
   },
   "files": [
     ".eslintrc",
