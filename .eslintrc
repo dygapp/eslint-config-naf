@@ -6,6 +6,7 @@
     }
   },
   "rules": {
-    "quotes": ["warn", "single"]
+    "quotes": ["warn", "single"],
+    "no-unused-vars": ["warn", { "vars": "local", "varsIgnorePattern": "^_" }]
   }
 }

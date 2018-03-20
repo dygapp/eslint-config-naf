@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-naf",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "naf eslint config ",
   "main": "index.js",
   "scripts": {
