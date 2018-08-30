@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-naf",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "naf eslint config ",
   "main": "index.js",
   "scripts": {
@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/dygapp/eslint-config-naf#readme",
   "dependencies": {
-    "eslint-config-egg": "^7.0.0"
+    "eslint-config-egg": "^7.1.0"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
